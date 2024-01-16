@@ -25,5 +25,3 @@ Constructors or Destructors - Inheritance - Function Overloading - Function Over
 
 For almost all operations there are 2 functions with different signatures
 
-## Testing
-A matrixTest.cpp file is provided along with output.txt which demonstrates some of the operations.
